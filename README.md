@@ -36,8 +36,8 @@
 
 <h5>Linkedin: <a href="https://www.linkedin.com/in/katarine-albuquerque/" target="_blank">/katarine-albuquerque</a></h5>
 
-<h5>Linkedin: <a href="https://github.com/KatarineAlbuquerque" target="_blank">/KatarineAlbuquerque</a></h5>
+<h5>GitHub: <a href="https://github.com/KatarineAlbuquerque" target="_blank">/KatarineAlbuquerque</a></h5>
 
-<h5>Linkedin: <a href="https://github.com/KatarineAlbuquerque/my-portfolio" target="_blank">/my-portfolio</a></h5>
+<h5>GitHub Projetos: <a href="https://github.com/KatarineAlbuquerque/my-portfolio" target="_blank">/my-portfolio</a></h5>
 
 </div>
