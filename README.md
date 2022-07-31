@@ -19,9 +19,11 @@
 <p>Spring Security</p>
 
 <h3>Project Organization</h3>
+<br/>
 <img src="./images/project.png" alt="Project Organization" widt="300"/>
 
 <h3>Swagger</h3>
+<br/>
 <img src="./images/swagger.png" alt="Project Organization" widt="100%"/>
 
 <h3>Author</h3>
