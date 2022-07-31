@@ -5,9 +5,9 @@
 
 <p>API developed in Java with Spring Boot to perform the parking demonstration.</p>
 
-<h4>Acesso a API</h4>
-<p>User: java</p>
-<p>Password: 123</p>
+<h4>API Access</h4>
+<p><strong>User:</strong> java</p>
+<p><strong>Password:</strong> 123</p>
 <h5>Após os testes Remova os dados em Delete</h5>
 
 <h4><a href="https://app-parking-spring-boot.herokuapp.com/swagger-ui/index.html" target="_blank">Open Parking API</a></h4>
