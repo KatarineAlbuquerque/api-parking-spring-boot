@@ -5,7 +5,7 @@
 
 <p>API developed in Java with Spring Boot to perform the parking demonstration.</p>
 
-<h4><a href="./swagger-ui.html" target="_blank">Open Parking API</a></h4>
+<h4><a href="https://app-parking-spring-boot.herokuapp.com/swagger-ui/index.html" target="_blank">Open Parking API</a></h4>
 
 <h3>Tools Used</h3>
 
