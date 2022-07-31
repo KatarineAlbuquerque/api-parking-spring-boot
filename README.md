@@ -5,14 +5,14 @@
 
 <p>API developed in Java with Spring Boot to perform the parking demonstration.</p>
 
-<h3>API Access</h3>
+<h2>API Access</h2>
 <p><strong>User:</strong> java</p>
 <p><strong>Password:</strong> 123</p>
 <h5>**Após os testes Remova os dados em Delete**</h5>
 
 <h4><a href="https://app-parking-spring-boot.herokuapp.com/swagger-ui/index.html" target="_blank">Open Parking API</a></h4>
 
-<h3>Tools Used</h3>
+<h2>Tools Used</h2>
 
 <p>Java 1.8</p>
 <p>Spring Data JPA</p>
@@ -23,15 +23,15 @@
 <p>Dev Tools</p>
 <p>Spring Security</p>
 
-<h3>Project Organization</h3>
+<h2>Project Organization</h2>
 <br/>
 <img src="./images/project.png" alt="Project Organization" widt="300"/>
 
-<h3>Swagger</h3>
+<h2>Swagger</h2>
 <br/>
 <img src="./images/swagger.png" alt="Project Organization" widt="100%"/>
 
-<h3>Author</h3>
+<h2>Author</h2>
 <h4>Katarine Albuquerque</h4>
 
 <h5>Linkedin: <a href="https://www.linkedin.com/in/katarine-albuquerque/" target="_blank">/katarine-albuquerque</a></h5>
